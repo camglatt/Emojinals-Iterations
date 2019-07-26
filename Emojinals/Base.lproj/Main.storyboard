@@ -23,7 +23,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="180"/>
                                 <state key="normal" title="🏙"/>
                                 <connections>
-                                    <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="sDv-NN-vJ9"/>
+                                    <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="fBV-9J-QhQ"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="N5r-ib-Nwt">
@@ -33,9 +33,6 @@
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="180"/>
                                 <state key="normal" title="🤠"/>
-                                <connections>
-                                    <action selector="showMessageWithSender:" destination="BYZ-38-t0r" eventType="touchUpInside" id="txK-SE-uIx"/>
-                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.84614609144531483" blue="0.90796649895037351" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
